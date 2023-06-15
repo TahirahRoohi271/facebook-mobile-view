@@ -1,0 +1,81 @@
+.facebook{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 3px solid;
+    height: 535px;
+    width: 290px;
+    border-radius: 10px;
+}
+.img{
+    height: 156px;
+    width: 290px;
+    padding: 0px;
+}
+.English{
+    margin-left: 85px;
+    margin-top: 0px;
+    color: blue;
+}
+.phone{
+    margin-left: 25px;
+    height: 39px;
+    width: 247px;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: lucida Fax;
+    font-size: 15px;
+}
+.password{
+    margin-left: 25px;
+    height: 39px;
+    width: 247px;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: lucida Fax;
+    font-size: 15px;
+}
+.login{
+    margin-left: 25px;
+    height: 29px;
+    width: 245px;
+    font-family:Arial Black
+    font-size: 14px;
+    background: blue;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color: white;
+}
+.forgot{
+    margin-left: 90px;
+    color: blue;
+    font-family: lucida Fax;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.or{
+    margin-left: 40px;
+}
+.new{
+    margin-left: 46px;
+    height: 29px;
+    width: 213px;
+    font-family: lucida Fax;
+    font-size: 12px;
+    color: white;
+    background: green;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-weight: 900;
+}
